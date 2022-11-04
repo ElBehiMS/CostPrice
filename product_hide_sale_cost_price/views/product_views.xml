@@ -8,9 +8,6 @@
             <field name="lst_price" position="attributes">
                <attribute name="groups">product_hide_sale_cost_price.group_product_sale_price</attribute>
             </field>
-            <field name="tx_string" position="attributes">
-               <attribute name="groups">product_hide_sale_cost_price.group_product_sale_price</attribute>
-            </field>
             <field name="price" position="attributes">
                <attribute name="groups">product_hide_sale_cost_price.group_product_cost_price</attribute>
             </field>
