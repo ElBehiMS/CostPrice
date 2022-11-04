@@ -8,7 +8,7 @@
             <field name="lst_price" position="attributes">
                <attribute name="groups">product_hide_sale_cost_price.group_product_sale_price</attribute>
             </field>
-            <field name="tax_string" position="attributes">
+            <field name="tx_string" position="attributes">
                <attribute name="groups">product_hide_sale_cost_price.group_product_sale_price</attribute>
             </field>
             <field name="price" position="attributes">
